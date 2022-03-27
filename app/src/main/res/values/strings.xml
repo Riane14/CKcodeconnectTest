@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CKcodeconnectTest</string>
+    <string name="list_title">Users from Dummyapi</string>
+    <string name="firstname"> First name \u0020 \u0020 : \u0020 %1$s</string>
+    <string name="lastename">  Last name  \u0020 :  \u0020 %1$s </string>
+    <string name="id">  Id \u0020 : \u0020  %1$s </string>
+    <string name="title">  Title   \u0020  : \u0020 %1$s </string>
+</resources>
